@@ -1,8 +1,8 @@
 const daty = {
     koniecSzkoly: new Date("June 25, 2027 08:00:00").getTime(),
-    egzaminyPolski: new Date("May 11, 2027 09:00:00").getTime(),
-    egzaminyMatematyka: new Date("May 12, 2027 09:00:00").getTime(),
-    egzaminyAngielski: new Date("May 13, 2027 09:00:00").getTime()
+    egzaminyPolski: new Date("May 10, 2027 09:00:00").getTime(),
+    egzaminyMatematyka: new Date("May 11, 2027 09:00:00").getTime(),
+    egzaminyAngielski: new Date("May 12, 2027 09:00:00").getTime()
 };
 
 function sledzCzas() {
